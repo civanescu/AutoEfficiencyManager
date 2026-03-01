@@ -1,0 +1,14 @@
+C:\Users\civan\AutoEfficiencyManager\bin\Debug\net10.0\AutoEfficiencyManager.exe
+C:\Users\civan\AutoEfficiencyManager\bin\Debug\net10.0\AutoEfficiencyManager.deps.json
+C:\Users\civan\AutoEfficiencyManager\bin\Debug\net10.0\AutoEfficiencyManager.runtimeconfig.json
+C:\Users\civan\AutoEfficiencyManager\bin\Debug\net10.0\AutoEfficiencyManager.dll
+C:\Users\civan\AutoEfficiencyManager\bin\Debug\net10.0\AutoEfficiencyManager.pdb
+C:\Users\civan\AutoEfficiencyManager\obj\Debug\net10.0\AutoEfficiencyManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\civan\AutoEfficiencyManager\obj\Debug\net10.0\AutoEfficiencyManager.AssemblyInfoInputs.cache
+C:\Users\civan\AutoEfficiencyManager\obj\Debug\net10.0\AutoEfficiencyManager.AssemblyInfo.cs
+C:\Users\civan\AutoEfficiencyManager\obj\Debug\net10.0\AutoEfficiencyManager.csproj.CoreCompileInputs.cache
+C:\Users\civan\AutoEfficiencyManager\obj\Debug\net10.0\AutoEfficiencyManager.dll
+C:\Users\civan\AutoEfficiencyManager\obj\Debug\net10.0\refint\AutoEfficiencyManager.dll
+C:\Users\civan\AutoEfficiencyManager\obj\Debug\net10.0\AutoEfficiencyManager.pdb
+C:\Users\civan\AutoEfficiencyManager\obj\Debug\net10.0\AutoEfficiencyManager.genruntimeconfig.cache
+C:\Users\civan\AutoEfficiencyManager\obj\Debug\net10.0\ref\AutoEfficiencyManager.dll

@@ -1,0 +1,4 @@
+explorer
+MsMpEng
+edge
+vlc
